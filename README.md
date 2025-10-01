@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-Successfully created a complete, modern Algorand prediction market smart contract using the latest **AlgoPy framework** and **Puya compiler**. This project demonstrates best practices for Algorand smart contract development in 2024/2025.
+Successfully created a complete, modern Algorand prediction market smart contract using the latest **AlgoPy framework** and **Puya compiler**. 
 
 ## ✅ Completed Features
 
